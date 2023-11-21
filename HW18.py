@@ -30,7 +30,7 @@ name=input('Введите имя пользователя:')
 wrong(name)'''
 
 #3
-import time
+'''import time
 
 class Timer:
     def __enter__(self):
@@ -48,5 +48,5 @@ with Timer():
     z=int(input('Введите число: '))
     for i in range(z):
         print('Как дела?')
-        time.sleep(1)
+        time.sleep(1)'''
 
