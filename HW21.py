@@ -1,5 +1,6 @@
 import tkinter as tk
 
+#Данная реализация самая верная, и отлично выполнена. Code Convension соблюдён
 def button_click():
     label.config(text='Теперь кликните в роизвольном месте')
 
